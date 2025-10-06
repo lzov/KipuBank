@@ -66,8 +66,9 @@ El contrato sigue buenas prácticas de desarrollo: errores personalizados, patr�
 
 ## Dirección del contrato desplegado
 
-- Testnet (ejemplo): "0x..."  
-- Block explorer: [link al block explorer con el contrato verificado]
+- Testnet Sepolia: `0xc44dd81cc6786290ed3fb3aa797c8755e9632815`
+- Block explorer: [Ver contrato](https://sepolia.etherscan.io/address/0xc44dd81cc6786290ed3fb3aa797c8755e9632815)
+
 
 ---
 
