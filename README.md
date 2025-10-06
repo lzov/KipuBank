@@ -76,3 +76,13 @@ El contrato sigue buenas prácticas de desarrollo: errores personalizados, patr�
 
 - Este contrato es educativo. **No usar en producción**.  
 - Sigue patrones de seguridad y buenas prácticas profesionales.
+
+## TO DO!
+
+- Agregar una variable como `s_TotalDeposited` para llevar registro del
+ETH depositado
+- Nuevos errores como `InvalidParameter` para los parámetros del constructor y `ZeroAmount` para que no depositen 0 wei. Es un edge case
+creo pero también para el Spam?
+- Refactorizar `_checkBankCap` debido al primer item ^ 
+- Revert de receive()
+- Probablemente contrastar con la spec y ver si falta algo
